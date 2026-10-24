@@ -1,0 +1,10 @@
+node_modules
+.next
+data/state.json
+data/db.json
+data/*.tmp
+*.tsbuildinfo
+.env.local
+.vercel
+
+.env
